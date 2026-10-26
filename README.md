@@ -160,7 +160,3 @@ The public repository commits the VBA source rather than the macro-enabled workb
 ## Skills demonstrated
 
 **Excel VBA · Power Automate Desktop · Power Automate Cloud · Office Scripts · TypeScript · OneDrive for Business · Outlook Automation · Microsoft Teams · Microsoft 365 · KPI Reporting · Data Validation · Conditional Workflows · Exception Management**
-
-## Portfolio wording
-
-Resume, LinkedIn, and interview-ready wording is available in [docs/portfolio-wording.md](docs/portfolio-wording.md).
