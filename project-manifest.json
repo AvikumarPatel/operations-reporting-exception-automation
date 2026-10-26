@@ -1,0 +1,27 @@
+{
+  "project": "Operations Reporting & Exception Management Automation",
+  "portfolio_only": true,
+  "data": "fictional practice data",
+  "technologies": [
+    "Excel VBA",
+    "Power Automate Desktop",
+    "Power Automate Cloud",
+    "Office Scripts",
+    "TypeScript",
+    "OneDrive for Business",
+    "Outlook",
+    "Microsoft Teams",
+    "Microsoft 365"
+  ],
+  "sample_run": {
+    "records": 600,
+    "unique_order_ids": 590,
+    "total_orders": 70009,
+    "total_units": 331723,
+    "overall_error_rate": 0.0112,
+    "late_order_rate": 0.025,
+    "return_rate": 0.0146,
+    "orders_per_hour": 15.17,
+    "exception_records": 381
+  }
+}

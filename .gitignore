@@ -1,0 +1,21 @@
+# Secrets and environment files
+.env
+.env.*
+credentials/
+secrets/
+*.secret
+
+# Microsoft Office temporary files
+~$*
+*.tmp
+*.bak
+
+# Macro-enabled workbooks are intentionally excluded from the public repo.
+# VBA source is committed separately in src/vba/.
+*.xlsm
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
