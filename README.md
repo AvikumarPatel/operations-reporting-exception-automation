@@ -2,7 +2,7 @@
 
 A Microsoft 365 automation portfolio project that combines **Excel VBA, Power Automate Desktop, Power Automate Cloud, Office Scripts, OneDrive for Business, Outlook, and Microsoft Teams** to process operational data, calculate KPIs, detect exceptions, and route review notifications.
 
-> **Portfolio disclaimer:** This project uses fictional practice data and is not affiliated with or deployed by any specific employer. The screenshots and sample records are for demonstration only.
+> **Note:** This project uses fictional practice data and is not affiliated with or deployed by any specific employer. The screenshots and sample records are for demonstration only.
 
 ## What this project demonstrates
 
